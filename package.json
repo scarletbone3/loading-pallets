@@ -1,0 +1,14 @@
+{
+  "name": "loading-pallets",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "typings": "./dist/types/index.d.ts",
+  "author": "scarletbone3",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
